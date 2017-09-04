@@ -1,2 +1,4 @@
-# Sentiment2
-For test
+sentiment1
+==========
+
+Some code for a twitter sentiment analysis

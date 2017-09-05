@@ -1,6 +1,6 @@
-Package: sentiment1
-Maintainer: Barry Rowlingson <b.rowlingson@gmail.com>
-Author: rowlings
+Package: sentiment2
+Maintainer: Praneeth Rachumallu<praneethrachumallu@gmail.com>
+Author: rowlings(credit: Spacedman)
 Version: 1.0
 License: GPL-3
 Title: Sentiment Analysis Demo 1
@@ -16,7 +16,7 @@ Suggests:
 Collate:
     'dashboard.R'
     'getTweets.R'
-    'package-sentiment1.r'
+    'package-sentiment2.r'
     'processing.R'
     'score.R'
     'scoreLM.R'

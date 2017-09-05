@@ -1,5 +1,5 @@
-#' sentiment1
+#' sentiment2
 #' 
-#' @name sentiment1
+#' @name sentiment2
 #' @docType package
 NULL
